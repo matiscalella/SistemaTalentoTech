@@ -1,6 +1,6 @@
 # Sistema de Gestión de Productos y Pedidos
 
-Proyecto desarrollado en Java utilizando Programación Orientada a Objetos (POO).
+Proyecto desarrollado en Java utilizando Programación Orientada a Objetos (POO) para el curso de BackEnd Java de TalentoTech.
 
 El sistema permite gestionar productos y pedidos mediante un menú interactivo en consola, incluyendo validaciones, manejo de excepciones y herencia.
 
